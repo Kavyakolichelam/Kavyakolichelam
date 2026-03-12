@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kavya 👋
 
-<!--
-**Kavyakolichelam/Kavyakolichelam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning and Data Science graduate student passionate about Artificial Intelligence, Deep Learning, and Data Analytics.
 
-Here are some ideas to get you started:
+## Skills
+Python  
+Machine Learning  
+Deep Learning  
+Computer Vision  
+Natural Language Processing  
+SQL  
+Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Neuro-Symbolic Hybrid News Classification (Explainable AI)  
+Mental Health Sentiment Analysis using NLP  
+Movie Recommendation System using Machine Learning  
+Deep Learning Crack Detection using MobileNet and U-Net  
+
+## Interests
+Artificial Intelligence  
+Machine Learning  
+Deep Learning  
+Data Science  
+Computer Vision
